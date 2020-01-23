@@ -1,5 +1,5 @@
 {
-    "serviceProvider": "CustomNavigationWidget\\Providers\\MapsServiceProvider",
+    "serviceProvider": "CustomNavigationWidget\\Providers\\NavigationServiceProvider",
     "version": "1.0.0",
     "name": "CustomNavigationWidget",
     "marketplaceName": { "de": "CustomNavigationWidget", "en": "CustomNavigationWidget" },
