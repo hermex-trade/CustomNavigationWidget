@@ -1,23 +1,21 @@
-[
-       {
-         "identifier": "CustomNavigationWidget::NavigationWidget",
-         "label": "Widget.mapsLabel",
-         "previewImageURL": "",
-         "type": "static",
-         "categories": [],
-         "position": 1050,
-         "widgetClass": "CustomNavigationWidget\\Widgets\\NavigationWidget",
-         "settings": {
-             "categories": {
-                 "type": "category",
-                 "required": true,
-                 "defaultValue": "",
-                 "isList": "[1,]",
-                 "options": {
-                     "name": "Widget.categoriesLabel",
-                     "tooltip": "Widget.categoriesTooltip"
-                 }
-             },
-         }
-     }
-   ]
+{
+  "identifier": "CustomNavigationWidget::NavigationWidget",
+  "label": "Widget.customNavigationLabel",
+  "previewImageURL": "",
+  "type": "static",
+  "categories": [],
+  "position": 1050,
+  "widgetClass": "CustomNavigationWidget\\Widgets\\NavigationWidget",
+  "settings": {
+    "categories": {
+      "type": "category",
+      "required": true,
+      "defaultValue": "",
+      "isList": "[1,]",
+      "options": {
+        "name": "Widget.categoriesLabel",
+        "tooltip": "Widget.categoriesTooltip"
+      }
+    },
+  }
+}
