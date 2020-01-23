@@ -12,6 +12,7 @@
                  "type": "category",
                  "required": true,
                  "defaultValue": "",
+                 "isList": "[1,]",
                  "options": {
                      "name": "Widget.categoriesLabel",
                      "tooltip": "Widget.categoriesTooltip"

@@ -4,8 +4,7 @@ if($topLevelCategory && $depth)
 {
   return [
     "categories" => [
-      "topLevelCategory" => $topLevelCategory
-      "depth" => $depth,
+      "entries" => $categories
     ]
   ];
 }

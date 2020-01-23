@@ -1,0 +1,18 @@
+{
+    "serviceProvider": "CustomNavigationWidget\\Providers\\MapsServiceProvider",
+    "version": "1.0.0",
+    "name": "CustomNavigationWidget",
+    "marketplaceName": { "de": "CustomNavigationWidget", "en": "CustomNavigationWidget" },
+    "description": "This is the CustomNavigationWidget for the Shop Builder developed by plentymarkets.",
+    "author": "Nicolas Almy",
+    "license": "MIT",
+    "price": 0.0,
+    "shortDescription": {
+        "de": "Das von plentymarkets entwickelte CustomNavigationWidget für den Shop Builder.",
+        "en": "This is the CustomNavigationWidget for the Shop Builder developed by plentymarkets."
+    },
+    "keywords": ["plentymarkets", "plugins", "layout", "widget", "category", "Navigation", "shopbuilder", "shop builder"],
+    "type": "widgets",
+    "require": ["Ceres", "IO"],
+    "namespace": "CustomNavigationWidget"
+}

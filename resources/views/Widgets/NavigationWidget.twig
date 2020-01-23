@@ -1,7 +1,7 @@
 {% if categories is not empty %}
-  {% for category in categories }
+  {% for cat_entry in categories.entries }
     <div>
-      {{category}}
+      {{cat_entry}}
     </div>
   {% endfor %}
 {% endif %}
